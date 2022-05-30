@@ -3,9 +3,6 @@
 ### Welcome to my Githubs profile. My name is Carolina Aizawa Moreira. Nice to meet you !
 
 
-###はじめまして！カロリナ相沢もレイラです！宜しくお願い致します。
-
-
 
 <!--
 **ninaai517/ninaai517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
