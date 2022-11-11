@@ -1,9 +1,9 @@
-### Olá!!! Bem vindo ao meu perfil do Github. Me chamo Carolina Aizawa Moreira. 👋
-
-### Welcome to my Githubs profile. My name is Carolina Aizawa Moreira. Nice to meet you !
+## Bem vindo ao meu perfil do Github. Me chamo Carolina Aizawa Moreira. 👋😄
 
 
-
+- 🔭 Graduanda na área de tecnologia hidráulica pela FATEC-SP (2023)
+- 🌱 Em transição de área de atuação
+- ⚡ Mergulhando na área de tecnologia da informação através das linguagens JAVA e Python
 <!--
 **ninaai517/ninaai517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
